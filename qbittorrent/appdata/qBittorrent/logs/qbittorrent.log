@@ -1,0 +1,29 @@
+(N) 2024-12-22T09:40:53 - qBittorrent v5.0.3 started. Process ID: 149
+(N) 2024-12-22T09:40:53 - Using config directory: /config/qBittorrent
+(N) 2024-12-22T09:40:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2024-12-22T09:40:53 - Peer ID: "-qB5030-"
+(I) 2024-12-22T09:40:53 - HTTP User-Agent: "qBittorrent/5.0.3"
+(I) 2024-12-22T09:40:53 - Distributed Hash Table (DHT) support: ON
+(I) 2024-12-22T09:40:53 - Local Peer Discovery support: ON
+(I) 2024-12-22T09:40:53 - Peer Exchange (PeX) support: ON
+(I) 2024-12-22T09:40:53 - Anonymous mode: OFF
+(I) 2024-12-22T09:40:53 - Encryption support: ON
+(I) 2024-12-22T09:40:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2024-12-22T09:40:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2024-12-22T09:40:53 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2024-12-22T09:40:53 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2024-12-22T09:40:53 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2024-12-22T09:40:53 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2024-12-22T09:40:53 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-12-22T09:40:53 - Using built-in WebUI.
+(W) 2024-12-22T09:40:53 - Couldn't load WebUI translation for selected locale (C).
+(N) 2024-12-22T09:40:53 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-12-22T09:40:53 - Detected external IP. IP: "49.36.24.39"
+(I) 2024-12-22T09:40:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Dec 1 02:19:17 2024.
+(I) 2024-12-22T09:40:55 - Successfully updated IP geolocation database.
+(N) 2024-12-22T09:41:38 - WebAPI login success. IP: ::ffff:192.168.29.86
+(N) 2024-12-22T09:42:01 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-12-22T10:45:46 - qBittorrent termination initiated
+(N) 2024-12-22T10:45:46 - Saving resume data completed.
+(N) 2024-12-22T10:45:46 - BitTorrent session successfully finished.
+(N) 2024-12-22T10:45:46 - qBittorrent is now ready to exit
